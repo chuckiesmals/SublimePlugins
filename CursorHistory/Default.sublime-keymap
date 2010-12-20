@@ -1,0 +1,5 @@
+<bindings>
+		<binding key="alt+right" command="goForwardInCursorHistory"/>
+		<binding key="alt+left" command="goBackInCursorHistory"/>
+		<binding key="alt+up" command="printCursorHistory"/>
+</bindings>
